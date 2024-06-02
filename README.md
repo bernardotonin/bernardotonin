@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi! My name is Bernardo Tonin Prates.
+🎓 Im pursuing a degree in Software Development and Analysis in Paraná's Federal Institute
+🖥️ I code mostly in Typescript, making NextJS powered web applications, and Python's FastAPI framework for backend.
+
 
